@@ -18,5 +18,5 @@
        'SPECIAL_CONSIDERATIONS_Y'
 * Features to be dropped:  'ASK_AMT,' 'EIN,' and 'NAME'
 * How many layers in the model & why:  I chose 3 Hidden Layers and 1 Output layer to address the perceived complexity of predicting the output.  I also chose 8, 5, 5 neurons  respectively for my 3 hidden layers, and the activation function I chose for these was both the 'relu' and the 'tanh' over two different attempts to run the model.  For the output layer, I always chose 'sigmoid' because it was a yes-no kind of an answer for the target variable.
-* 
+* Where you able to achieve the target performance:  No, the closest I got was 73% accuracy
 * 

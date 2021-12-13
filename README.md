@@ -17,4 +17,5 @@
        'INCOME_AMT_25000-99999', 'SPECIAL_CONSIDERATIONS_N',
        'SPECIAL_CONSIDERATIONS_Y'
 * Features to be dropped:  'ASK_AMT,' 'EIN,' and 'NAME'
+* How many layers in the model & why:  I chose 3 Hidden Layers and 1 Output layer to address the perceived complexity of predicting the output
 * 

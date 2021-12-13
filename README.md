@@ -1,3 +1,3 @@
 # Neural_Network_Charity_Analysis
 
-## Target for the Model: "IS_SUCCESSFUL"
+Markup :  * Target for the Model: "IS_SUCCESSFUL"

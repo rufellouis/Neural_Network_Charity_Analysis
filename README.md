@@ -20,3 +20,7 @@
 * How many layers in the model & why:  I chose 3 Hidden Layers and 1 Output layer to address the perceived complexity of predicting the output.  I also chose 8, 5, 5 neurons  respectively for my 3 hidden layers, and the activation function I chose for these was both the 'relu' and the 'tanh' over two different attempts to run the model.  For the output layer, I always chose 'sigmoid' because it was a yes-no kind of an answer for the target variable.
 * Where you able to achieve the target performance:  No, the closest I got was 73% accuracy
 *  What steps did I take to Optimize the model:  1. I tried to bin more values in categorical variables that had many categories with few counts.  2. I tried both the 'relu' and the 'tanh' activation functions.  3.  I tried dropping 'ASK_AMT' as an attempt to get rid of needless inputs. 3. Lastly, I added an additional Hidden Layer with 5 Neurons.
+
+## Summary
+
+I think that to optimize the model, Random Forest would be a better option, as this model has the ability to list contribution percentages for all the features, and then needless features can be better identified.  I would recommmend attempting the model using Random Forest in the next phase, if there was a next phase.

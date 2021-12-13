@@ -16,4 +16,5 @@
        'INCOME_AMT_100000-499999', 'INCOME_AMT_1m_to_50m+',
        'INCOME_AMT_25000-99999', 'SPECIAL_CONSIDERATIONS_N',
        'SPECIAL_CONSIDERATIONS_Y'
-* nEXT
+* Features to be dropped:  'ASK_AMT,' 'EIN,' and 'NAME'
+* 
